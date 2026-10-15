@@ -1,0 +1,9 @@
+{
+  "name": "@quantovainc/xrpl-pq-evidence",
+  "version": "0.1.0",
+  "type": "module",
+  "license": "(Apache-2.0 OR MIT)",
+  "scripts": { "test": "vitest run" },
+  "dependencies": { "@noble/hashes": "2.0.1" },
+  "devDependencies": { "vitest": "3.2.4" }
+}
